@@ -2,8 +2,6 @@
 
 use Illuminate\Support\Str;
 
-<?php
-
 $db_config = get_db_config();
 
 return [
